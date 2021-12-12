@@ -25,6 +25,7 @@ import os
 import tensorflow as tf
 from six.moves import cPickle as pickle
 from tensorflow.contrib import legacy_seq2seq
+# import tensorflow_addons as tfa
 from tensorflow.contrib import rnn
 
 

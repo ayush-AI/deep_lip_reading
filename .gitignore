@@ -18,6 +18,7 @@ BUILD/
 build/
 !tests/build/
 dist/
+models/
 .gitrev
 .coverage
 *.orig
@@ -25,9 +26,14 @@ dist/
 *.dep
 *.swp
 *~
+output.txt
+eval_tb_logs/
+*.zip
+
 
 tags
 TAGS
+
 
 .tox
 
